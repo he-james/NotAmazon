@@ -1,0 +1,74 @@
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\MainWindow.g.cs
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\App.g.cs
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\NotAmazon_MarkupCompile.cache
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\NotAmazon_MarkupCompile.lref
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\MainWindow.baml
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\NotAmazon.g.resources
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\NotAmazon.Properties.Resources.resources
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\NotAmazon.csproj.GenerateResource.cache
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\NotAmazon.pdb
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\bin\Release\NotAmazon.exe.config
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\bin\Release\NotAmazon.exe
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\bin\Release\NotAmazon.pdb
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\NotAmazon.csproj.CoreCompileInputs.cache
+\\Client\C$\Users\heja\Downloads\NotAmazon (1)\NotAmazon\NotAmazon\obj\Release\NotAmazon.exe
+I:\NotAmazon\NotAmazon\bin\Release\NotAmazon.exe.config
+I:\NotAmazon\NotAmazon\bin\Release\NotAmazon.exe
+I:\NotAmazon\NotAmazon\bin\Release\NotAmazon.pdb
+I:\NotAmazon\NotAmazon\obj\Release\MainWindow.g.cs
+I:\NotAmazon\NotAmazon\obj\Release\App.g.cs
+I:\NotAmazon\NotAmazon\obj\Release\NotAmazon_MarkupCompile.cache
+I:\NotAmazon\NotAmazon\obj\Release\NotAmazon_MarkupCompile.lref
+I:\NotAmazon\NotAmazon\obj\Release\MainWindow.baml
+I:\NotAmazon\NotAmazon\obj\Release\NotAmazon.g.resources
+I:\NotAmazon\NotAmazon\obj\Release\NotAmazon.Properties.Resources.resources
+I:\NotAmazon\NotAmazon\obj\Release\NotAmazon.csproj.GenerateResource.cache
+I:\NotAmazon\NotAmazon\obj\Release\NotAmazon.csproj.CoreCompileInputs.cache
+I:\NotAmazon\NotAmazon\obj\Release\NotAmazon.exe
+I:\NotAmazon\NotAmazon\obj\Release\NotAmazon.pdb
+I:\NotAmazon\NotAmazon\obj\Release\NotAmazon.csprojAssemblyReference.cache
+K:\NotAmazonDec12Michael\NotAmazon\bin\Release\NotAmazon.exe.config
+K:\NotAmazonDec12Michael\NotAmazon\bin\Release\NotAmazon.exe
+K:\NotAmazonDec12Michael\NotAmazon\bin\Release\NotAmazon.pdb
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\NotAmazon.csprojAssemblyReference.cache
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\MainWindow.g.cs
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\App.g.cs
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\NotAmazon_MarkupCompile.cache
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\NotAmazon_MarkupCompile.lref
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\MainWindow.baml
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\NotAmazon.g.resources
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\NotAmazon.Properties.Resources.resources
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\NotAmazon.csproj.GenerateResource.cache
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\NotAmazon.csproj.CoreCompileInputs.cache
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\NotAmazon.exe
+K:\NotAmazonDec12Michael\NotAmazon\obj\Release\NotAmazon.pdb
+I:\NotAmazon--master\NotAmazon\bin\Release\NotAmazon.exe.config
+I:\NotAmazon--master\NotAmazon\bin\Release\NotAmazon.exe
+I:\NotAmazon--master\NotAmazon\bin\Release\NotAmazon.pdb
+I:\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.csprojAssemblyReference.cache
+I:\NotAmazon--master\NotAmazon\obj\Release\MainWindow.g.cs
+I:\NotAmazon--master\NotAmazon\obj\Release\App.g.cs
+I:\NotAmazon--master\NotAmazon\obj\Release\NotAmazon_MarkupCompile.cache
+I:\NotAmazon--master\NotAmazon\obj\Release\NotAmazon_MarkupCompile.lref
+I:\NotAmazon--master\NotAmazon\obj\Release\MainWindow.baml
+I:\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.g.resources
+I:\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.Properties.Resources.resources
+I:\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.csproj.GenerateResource.cache
+I:\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.csproj.CoreCompileInputs.cache
+I:\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.exe
+I:\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.pdb
+\\Client\I$\NotAmazon--master\NotAmazon\bin\Release\NotAmazon.exe.config
+\\Client\I$\NotAmazon--master\NotAmazon\bin\Release\NotAmazon.exe
+\\Client\I$\NotAmazon--master\NotAmazon\bin\Release\NotAmazon.pdb
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.csprojAssemblyReference.cache
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\MainWindow.g.cs
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\App.g.cs
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\NotAmazon_MarkupCompile.cache
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\NotAmazon_MarkupCompile.lref
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\MainWindow.baml
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.g.resources
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.Properties.Resources.resources
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.csproj.GenerateResource.cache
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.csproj.CoreCompileInputs.cache
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.exe
+\\Client\I$\NotAmazon--master\NotAmazon\obj\Release\NotAmazon.pdb

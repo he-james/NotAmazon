@@ -1,0 +1,21 @@
+The Giver|Lois Lowry|19.99|000184728369|Penguin Books|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Memory Man|David Baldacci|13.79|1447287967|Grand Central Publishing|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Give and Take: Why Helping Others Drives Our Success|Adam Grant|13.44|0315782145|Penguin Books|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Girl, Stop Apologizing|Rachel Hollis|6.49|1400209609|Harpercollins Leadership|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+AAAAAAAAAA|Harper Lee|7.19|0060935464|Harper Perennial|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Lord of the Flies|William Golding|5.99|0399501487|Penguin Books|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa|Mark Z. Danielewski|14.19|0375703764|Pantheon|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+The Girl Who Lived|Christopher Greyson|15.48|1683993039|Independent|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+the 49th law|49 cent|49.49|006177460X|Amistad|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+now she is here|Lisa Jewell|8.79|1501154656|Atria Books|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+the running man|M.M. Chouinard|9.89|1786818248|Bookouture|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Sold on a Monday|Kristina McMorris|7.99|1492663999|Sourcebooks Landmark|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Slaughterhouse-Five: A Novel|Kurt Vonnegut|7.89|0812988523|Dial Press Trade Paperback|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Cat's Cradle: A Novel|Kurt Vonnegut|12.87|038533348X|Dell Publishing|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Unordinary Grace|William Kent Krueger|233.94|1451645856|Atria Books|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+I Am Watching You|Teresa Driscoll|7.99|9781542046596|Thomas & Mercer|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+The Grapes of Wrath|John Steinbeck|12.99|0143039431|Penguin Classics|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+We Were the Lucky Ones|Georgia Hunter|9.99|0143134760|Penguin Books|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Night|Elie Wiesel|9.07|9780374500016|Hill and Wang|0||1/1/1990 12:00:00 AM|1/1/1990 12:00:00 AM
+Harry Potter and the Sorcerer's Stone|J.K. Rowling|11.99|0590353403|Scholastic Press|1|James He|12/15/2019 12:00:00 AM|12/31/2019 12:00:00 AM
+The Outsiders|S. E. Hinton|12.19|014240733X|Speak|1|James He|12/15/2019 12:00:00 AM|12/31/2019 12:00:00 AM
